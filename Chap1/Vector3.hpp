@@ -2,8 +2,7 @@
 
 #include <type_traits>
 
-template <class T>
-concept IsArithmetic = std::is_arithmetic_v<T>;
+#include "../my_concepts.hpp"
 
 class Vector3
 {
