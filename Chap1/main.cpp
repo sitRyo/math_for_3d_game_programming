@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "Vector3.hpp"
+#include "../header/Vector3.hpp"
 
 bool test_plus()
 {
