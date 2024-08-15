@@ -2,7 +2,7 @@
 
 #include <type_traits>
 
-#include "../my_concepts.hpp"
+#include "./my_concepts.hpp"
 
 class Vector3
 {
